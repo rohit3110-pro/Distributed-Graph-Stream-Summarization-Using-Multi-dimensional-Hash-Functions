@@ -1,4 +1,4 @@
-<h1>Distributed Graph Stream Summarization using Pattern and Rank-Based Sketch on Apache Spark</h1>
+<h1>Distributed Graph Stream Summarization Using Multi-dimensional Hash Functions</h1>
 
 <p>
 A scalable, memory-efficient system for <b>real-time summarization and querying of massive graph streams</b>. 
